@@ -1,5 +1,6 @@
 # GAANet
-GAANet official code
+GAANet official code， 
+Since I am currently working, I will organize all the core code when I have free time later. Currently, the code is only for rotating object detection, and the core module architecture is missing and needs to be organized.
 
 ## Install 
 **CUDA Driver Version ≥ CUDA Toolkit Version(runtime version) = torch.version.cuda**
