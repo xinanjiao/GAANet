@@ -1,5 +1,5 @@
 # GAANet
-GAANet official code， 
+GAANet official repository， This is a test demo used to demonstrate the performance of GAANet.
 Since I am currently working, I will organize all the core code when I have free time later. Currently, the code is only for rotating object detection, and the core module architecture is missing and needs to be organized.
 
 ## Install 
